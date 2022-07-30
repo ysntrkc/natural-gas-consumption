@@ -1,2 +1,5 @@
-deneme
-.vscode
+/deneme
+/.vscode
+/.idea
+/__pycache__
+*.pyc
