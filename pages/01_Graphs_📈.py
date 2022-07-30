@@ -1,5 +1,3 @@
-from turtle import color
-from matplotlib.pyplot import legend
 import numpy as np
 import pandas as pd
 import streamlit as st
