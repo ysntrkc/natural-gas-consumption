@@ -12,4 +12,4 @@ We used Prophet for time series forecasting and XGBoost for regression.
 ## Contributors
 - Yasin Tarakçı - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 - Üftade Bengi Erolçay - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
-- Baranalp Özkan - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
+- Baranalp Özkan - [GitHub](https://github.com/baranalpozkan) | [LinkedIn](https://www.linkedin.com/in/baranalpozkan/)
