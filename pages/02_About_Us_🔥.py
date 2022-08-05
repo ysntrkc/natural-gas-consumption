@@ -25,22 +25,24 @@ st.markdown("---")
 
 _, col, _ = st.columns([1, 1, 1])
 with col:
-    st.image("images/yasin.jpg", caption="Yasin Tarakçı")
+    st.image("images/uftade.jpg", caption="Üftade Bengi Erolçay")
 
 _, col1, col2, _ = st.columns([3, 1.5, 0.8, 3])
 with col1:
-    st.markdown(f"[![Foo]({github})](https://github.com/ysntrkc)")
+    st.markdown(f"[![Foo]({github})](https://github.com/uftadeerolcay)")
 with col2:
-    st.markdown(f"[![Foo]({linkedin})](https://www.linkedin.com/in/yasintarakci)")
+    st.markdown(
+        f"[![Foo]({linkedin})](https://www.linkedin.com/in/uftade-bengi-erolcay)"
+    )
 st.markdown("---")
 
 _, col, _ = st.columns([1, 1, 1])
 with col:
-    st.image("images/yasin.jpg", caption="Yasin Tarakçı")
+    st.image("images/baranalp.jpeg", caption="Baranalp Özkan")
 
 _, col1, col2, _ = st.columns([3, 1.5, 0.8, 3])
 with col1:
-    st.markdown(f"[![Foo]({github})](https://github.com/ysntrkc)")
+    st.markdown(f"[![Foo]({github})](https://github.com/baranalpozkan)")
 with col2:
-    st.markdown(f"[![Foo]({linkedin})](https://www.linkedin.com/in/yasintarakci)")
+    st.markdown(f"[![Foo]({linkedin})](https://www.linkedin.com/in/baranalpozkan)")
 st.markdown("---")
