@@ -22,12 +22,9 @@ fig = px.bar(
     x="tarih",
     y="tuketim",
     title=f"{option}: Natural Gas Consumption Prediction (Nov 2021 - Dec 2022)",
-    # title=f"{option}: Doğalgaz Tüketim Tahmini (Kasım 2021 - Aralık 2022)",
 )
 fig.update_yaxes(title="Natural Gas Consumption (MWh)")
 fig.update_xaxes(title="Date", tickangle=30)
-# fig.update_yaxes(title="Doğalgaz Tüketimi (MWh)")
-# fig.update_xaxes(title="Tarih", tickangle=30)
 st.plotly_chart(fig)
 
 # Import train and test data for selected district
