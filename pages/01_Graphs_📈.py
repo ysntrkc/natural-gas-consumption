@@ -58,7 +58,7 @@ fig.add_trace(
 )
 fig.update_layout(
     title={
-        "text": f"{option}: Train/Test Data (Apr 2020 - Oct 2021)",
+        "text": f"{option}: Test Data (Apr 2020 - Oct 2021)",
         "y": 0.9,
         "x": 0.5,
         "xanchor": "center",
